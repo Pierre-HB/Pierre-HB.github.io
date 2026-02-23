@@ -74,7 +74,7 @@ kramdown:
 title: Pierre Hubert-Brierre
 
 description: >
-  I'm a young PhD student.
+  Computer Graphics PhD student.
 
 theme: minima
 
@@ -87,13 +87,6 @@ sass:
   silence_deprecations: [import]
 
 minima:
-  social_links:
-    - title: Minima Theme repository at GitHub
-      icon: github
-      url: "https://github.com/jekyll/minima"
-    - title: Jekyll at X (formerly Twitter)
-      icon: x-twitter
-      url: "https://x.com/jekyllrb"
   # Minima skin selection. Available skins are:
   #   Available skins:
   #     * classic            Default, light color scheme.
@@ -108,9 +101,14 @@ minima:
   #   If you wish to link only specific pages in the site-navigation, use this and list
   #   the `path` property (as represented via Liquid) of the pages in the order they
   #   should be rendered.
+  nav_pages:
+    - index.md
+    - Publication.md
+    - teaching.md
+    - about.md
 
   # Set to `true` to show excerpts on the homepage.
-
+  show_excerpts: true
 
   # Minima date format.
   #   The default value is "%b %d, %Y" (e.g. Nov 14, 2023).
@@ -123,5 +121,11 @@ minima:
   #     * title    Tooltip rendered on hovering over icon.
   #     * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
   #     * url      Full URL of social profile.
-  
+  social_links:
+    - title: Minima Theme repository at GitHub
+      icon: github
+      url: "https://github.com/jekyll/minima"
+    - title: Jekyll at X (formerly Twitter)
+      icon: x-twitter
+      url: "https://x.com/jekyllrb"
       

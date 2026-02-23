@@ -3,6 +3,14 @@ layout: home
 title: Home
 permalink: 
 ---
+
+Pierre Hubert-Brierre\
+Laboratoire LIRIS - CNRS / LIX - CNRS\
+Université Claude Bernard Lyon 1\
+Ecole Polytéchnique\
+e-mail : pierre.hubert-brierre@ens-lyon.fr
+
+
 ![Myself](photo_Pierre.jpg)
 
 # Bio
@@ -23,7 +31,7 @@ My PhD goal is to leverage volumetric modeling techniques for representing compl
  - 2021 **Honour Degree** in Computer Science
  - 2018 **Baccalaureate** in Science
  
-# Past Internship
+# Past Internships
 
 - 2024 **LIX**, Ecole Polytechnique, 5 month, with Marie-Paule Cani, Implicit surfaces optimisation
 - 2023 **LIRIS**, Claude Bernard University, 3 month, with Eric Galin, Implicit Surface Modeling
