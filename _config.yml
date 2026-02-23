@@ -71,15 +71,10 @@ kramdown:
   footnote_nr       : 1
   show_warnings     : false
   
-title: Your awesome title
-author:
-  name: GitHub User
-  email: your-email@domain.com
+title: Pierre Hubert-Brierre
 
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  I'm a young PhD student.
 
 theme: minima
 
