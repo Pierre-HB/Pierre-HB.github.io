@@ -84,6 +84,6 @@ minima:
   nav_pages:
    - README.md
    - Publication.md
-
+  show_excerpts: true
   hide_site_feed_link: false
 
