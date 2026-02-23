@@ -1,3 +1,6 @@
+---
+layout: home
+---
 # My name
 Blabla
 truyc much
