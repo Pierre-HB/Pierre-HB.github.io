@@ -16,7 +16,7 @@ e-mail : pierre.hubert-brierre@ens-lyon.fr\
 office : 152
 
 # Bio
-I am a PhD student at the Universitée Claude Bernard Lyon 1 and the Ecole Polytechnique since September 2024. My PhD is entitled "Multi scale virtual world modeling using implicit surfaces". I am beeing co-supervised by [Eric Galin](https://perso.liris.cnrs.fr/eric.galin/) and [Marie-Paule Cani](https://www.lix.polytechnique.fr/vista/vista-member/marie-paule_cani/).
+I am a PhD student at the Universitée Claude Bernard Lyon 1 and the Ecole Polytechnique since September 2024. My PhD is entitled "Multi scale virtual world modeling using implicit surfaces". I am being co-supervised by [Eric Galin](https://perso.liris.cnrs.fr/eric.galin/) and [Marie-Paule Cani](https://www.lix.polytechnique.fr/vista/vista-member/marie-paule_cani/).
 
 ## PhD Summary
 
@@ -24,7 +24,7 @@ Implicit surfaces have been subject to a renewal of interest since years, especi
 
 My PhD goal is to leverage volumetric modeling techniques for representing complex objects, like for deformed instance tree trunks or partially putrefied ones, cliffs being eroded by the sea or rocks eroded by the mechanical action of wind and sand. My work tackles conjointly primitive creation enabling complex modeling, primitive combination allowing for computing time optimization and adapted visualisation techniques benefiting from recent GPU advancement.
 
-# Diploma
+# Diplomas
 
  - 2024 **ENS Certificate** in Computer Science
  - 2023 **Master of Science ID3D** in Computer Graphics
