@@ -1,8 +1,8 @@
 ---
 layout: home
 ---
-Photo ici
+![Myself](photo_Pierre.jpg)
 
-Ma Biographie
+Ma Biographie : TODO
 
-Lien vers autres pages
+Lien vers autres pages : TODO
