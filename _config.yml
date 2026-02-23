@@ -75,12 +75,9 @@ kramdown:
   
 minima:
   social_links:
-    - title: Jekyll repository at GitHub
+    - title: PierreHB repository at GitHub
       icon: github
-      url: "https://github.com/jekyll/jekyll"
-  nav_pages:
-   - README.md
-   - Publication.md
+      url: "https://github.com/Pierre-HB"
   show_excerpts: true
-  hide_site_feed_link: false
+  hide_site_feed_link: true
 
