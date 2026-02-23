@@ -5,4 +5,5 @@ layout: home
 
 Ma Biographie : TODO
 
-Lien vers autres pages : TODO
+---
+[Publication](https://pierre-hb.github.io/publication/) [About](https://pierre-hb.github.io/about/) [Teaching](https://pierre-hb.github.io/teaching/) [My PhD]

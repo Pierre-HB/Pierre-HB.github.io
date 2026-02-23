@@ -15,6 +15,9 @@ P. Hubert-Brierre, E. Guérin, A. Peytavie, E. Galin.
 Computer Graphics Forum, 44(7), 2025.
 
 [Code Light](https://www.shadertoy.com/view/Wf2yRz)
+
 [Code Heavy](https://www.shadertoy.com/view/wcBczm)
+
 [PDF](2025-lod.pdf)
+
 [Video](https://www.youtube.com/watch?v=YW6rxDClytI)
