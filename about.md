@@ -44,4 +44,6 @@ My **TIPE** (end of prep school informatic project): Rendering of water using im
 
 ---
 
+![](evwayu.png)
+
 **Evwayu** : a 3D game about space vessel fighting, written in Ocaml for a scool project. [Code](https://github.com/Pierre-HB/-vway-/tree/master)
