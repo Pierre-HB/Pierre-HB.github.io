@@ -75,9 +75,12 @@ kramdown:
   
 minima:
   social_links:
-    - title: PierreHB repository at GitHub
+    - title: Pierre-HB repository at GitHub
       icon: github
       url: "https://github.com/Pierre-HB"
+  header_pages:
+    - README.md
+    - Publication.md
   show_excerpts: true
   hide_site_feed_link: true
 
