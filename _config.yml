@@ -74,13 +74,13 @@ kramdown:
   show_warnings     : false
   
 minima:
+  header_pages:
+    - README.md
+    - Publication.md
   social_links:
     - title: Pierre-HB repository at GitHub
       icon: github
       url: "https://github.com/Pierre-HB"
-  header_pages:
-    - README.md
-    - Publication.md
   show_excerpts: true
   hide_site_feed_link: true
 
