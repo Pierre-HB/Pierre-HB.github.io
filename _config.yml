@@ -81,3 +81,9 @@ minima:
     - title: Jekyll at X (formerly Twitter)
       icon: x-twitter
       url: "https://x.com/jekyllrb"
+  nav_pages:
+   - Readme.md
+   - Publication.md
+
+  hide_site_feed_link: false
+
