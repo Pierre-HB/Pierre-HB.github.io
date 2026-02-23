@@ -1,3 +1,6 @@
+---
+layout: home
+---
 Photo ici
 
 Ma Biographie
