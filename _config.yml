@@ -82,7 +82,7 @@ minima:
       icon: x-twitter
       url: "https://x.com/jekyllrb"
   nav_pages:
-   - Readme.md
+   - README.md
    - Publication.md
 
   hide_site_feed_link: false
