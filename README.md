@@ -1,5 +1,6 @@
 ---
-layout: home
+title: Main
+permalink: /main/
 ---
 # My name
 Blabla
