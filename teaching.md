@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-I am teaching assistant at the Ecole Polytéchnique
+I am teaching assistant at the Ecole Polytechnique
 
 # 2025-2026
 
