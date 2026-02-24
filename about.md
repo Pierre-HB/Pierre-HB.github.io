@@ -20,7 +20,7 @@ permalink: /about/
 
 ![](defensive_sampling.png)
 
-**End of master internship (2023)**: Defensive sampling for monte carlo renderer. ![Repport](repport_stage_m2.pdf)
+**End of master internship (2023)**: Defensive sampling for monte carlo renderer. [Repport](repport_stage_m2.pdf)
 
 ---	
 	
