@@ -13,7 +13,8 @@ Laboratories LIRIS - CNRS / LIX - CNRS\
 Université Claude Bernard Lyon 1\
 Ecole Polytechnique\
 e-mail : pierre.hubert-brierre@ens-lyon.fr\
-office : 152
+office : 144\
+[CV](CV_pierre_hubert-brierre.pdf)
 
 # Bio
 I am a PhD student at the Universitée Claude Bernard Lyon 1 and the Ecole Polytechnique since September 2024. My PhD is entitled "Multi scale virtual world modeling using implicit surfaces". I am being co-supervised by [Eric Galin](https://perso.liris.cnrs.fr/eric.galin/) and [Marie-Paule Cani](https://www.lix.polytechnique.fr/vista/vista-member/marie-paule_cani/).
