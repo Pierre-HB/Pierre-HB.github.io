@@ -5,12 +5,6 @@ permalink: /about/
 ---
 
 ---
-
-![](blueprint.png)
-
-**BluePrint Maker**: Side project using ImGui to create a node interface describing a flow graph. Using sparce matrix representation and inversion to solve the graph. [Code](https://github.com/Pierre-HB/BluePrintMaker)
-
----
 	
 ![](salseman.png)
 	
@@ -18,9 +12,15 @@ permalink: /about/
 
 ---
 
+![](blueprint.png)
+
+**BluePrint Maker**: Side project using ImGui to create a node interface describing a flow graph. Using sparce matrix representation and inversion to solve the graph. [Code](https://github.com/Pierre-HB/BluePrintMaker)
+
+---
+
 ![](defensive_sampling.png)
 
-**End of master internship (2023)**: Defensive sampling for monte carlo renderer. Repport to compile
+**End of master internship (2023)**: Defensive sampling for monte carlo renderer. ![Repport](repport_stage_m2.pdf)
 
 ---	
 	
