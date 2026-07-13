@@ -4,15 +4,43 @@ title: Publication
 permalink: /publication/
 ---
 
+# 2026
+
+## Extreme continuous level of detail for skeleton-based implicit surfaces
+
+![image](2026_SMI/2026_Extreme_LOD.png)
+
+P. Hubert-Brierre, M.P. Cani, E. Galin.
+
+Computers & Graphics, 138(104646), Proceedings of SMI, 2026.
+
+[PDF](2026_SMI/2026_Extreme_LOD.pdf)
+
+[Video](2026_SMI/2026_Extreme_LOD.mp4)
+
+
+## The PhaseTree: Multiphase Signed Distance Fields
+
+![image](2026_ACM_TOG/2026-phasetree.png)
+
+P. Hubert-Brierre, M.P. Cani, E. Galin.
+
+ACM Transactions on Graphics, 45(4), Proceedings of SIGGRAPH, 2026.
+
+[PDF](2026_ACM_TOG/2026-phasetree.pdf)
+
+[Code](https://github.com/Arches-Team/PhaseTree)
+
+
 # 2025
 
-## Accelerating Signed Distance Functions.
+## Accelerating Signed Distance Functions
 
 ![image](2025-accelerating.png)
 
 P. Hubert-Brierre, E. Guérin, A. Peytavie, E. Galin.
 
-Computer Graphics Forum, 44(7), 2025.
+Computer Graphics Forum, 44(7), Proceedings of Pacific Graphics, 2025.
 
 [Code Light](https://www.shadertoy.com/view/Wf2yRz)
 
