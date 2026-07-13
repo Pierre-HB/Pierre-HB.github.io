@@ -15,6 +15,7 @@ permalink: /publication/
 P. Hubert-Brierre, M.P. Cani, E. Galin.
 
 [Computers & Graphics, 138(104646), Proceedings of SMI, 2026.](https://www.sciencedirect.com/science/article/pii/S0097849326001172)
+[Hal](https://hal.science/view/index/docid/5690636)
 
 [PDF](2026_SMI/2026_Extreme_LOD.pdf)
 [Video](2026_SMI/2026_Extreme_LOD.mp4)
