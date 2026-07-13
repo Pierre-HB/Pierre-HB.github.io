@@ -4,6 +4,8 @@ title: Publication
 permalink: /publication/
 ---
 
+---
+
 # 2026
 
 ## Extreme continuous level of detail for skeleton-based implicit surfaces
@@ -29,6 +31,7 @@ P. Hubert-Brierre, M.P. Cani, E. Galin.
 [PDF](2026_ACM_TOG/2026-phasetree.pdf)
 [Code](https://github.com/Arches-Team/PhaseTree)
 
+---
 
 # 2025
 
