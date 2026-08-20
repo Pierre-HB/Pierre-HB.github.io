@@ -39,6 +39,6 @@ My PhD goal is to leverage volumetric modeling techniques for representing compl
 - 2026 **ADOBE**, Adobe Paris, 6 month, with Jean-Marc Thiery and Axel Paris
 - 2024 **LIX**, Ecole Polytechnique, 5 month, with Marie-Paule Cani, Implicit surfaces optimisation
 - 2023 **LIRIS**, Claude Bernard University, 3 month, with Eric Galin, Implicit Surface Modeling
-- 2023 **LIRIS**, Laude Bernard University, 5 month, with Jean-Claude Ihel, Defensive sampling for monte carlo rendering
+- 2023 **LIRIS**, Laude Bernard University, 5 month, with Jean-Claude Iehl, Defensive sampling for monte carlo rendering
 - 2022 **University of Edimburg**, Edimburg, 3 month, with Kartic Subr, NLP for computer graphics
 - 2021 **INRIA**, Bordeaux, 6 week, with Bascal Barla, Thin Layer modelisation
