@@ -19,6 +19,7 @@ P. Hubert-Brierre, M.P. Cani, E. Galin.
 
 [PDF](2026_SMI/2026_Extreme_LOD.pdf)
 [Video](2026_SMI/2026_Extreme_LOD.mp4)
+[Slide](2026_SMI/2026_Extreme_LOD.pptx)
 
 
 ## The PhaseTree: Multiphase Signed Distance Fields
