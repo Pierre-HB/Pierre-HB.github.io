@@ -4,7 +4,7 @@ title: Home
 permalink: 
 ---
 
-![Myself](photo_Pierre.jpg)
+![Myself](photo_Pierre.png)
 
 # Contact
 
